@@ -1,4 +1,4 @@
-# Bank_Analysis_Using_Excel
+# Bank Analysis Using Excel
 Perform analysis on bank customers data using excel, pivot tables, and visualize with excel charts
 The data consists:
 ```
